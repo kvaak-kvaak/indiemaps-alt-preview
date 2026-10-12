@@ -15,3 +15,11 @@ Both use Vela's `regions` manifest and `places` tile layer. Parking is separate 
 This tests map transport and basic cards. Independent search and rich-card integrations remain separate. Do not combine this source with another POI overlay over Southend when assessing duplicates.
 
 See attribution.txt and checksums.json in the release. Tile build was performed in GitHub Actions, with a decode check for all IDs/properties and coordinate quantization under 9 cm.
+
+## Streaming test URLs (CORS-enabled raw hosting)
+
+Main: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-12-v1/southend/manifest.json
+
+Optional parking: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-12-v1/southend/parking-manifest.json
+
+These small preview files are pinned to an immutable test tag. This is test delivery, not a final large-scale hosting decision.

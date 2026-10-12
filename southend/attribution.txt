@@ -1,0 +1,10 @@
+Indiemaps Southend preview — 12 October 2026
+Built from candidate 3a5b0e8b5399ee70 in GitHub Actions run 38270998384.
+Map data includes OpenStreetMap contributors (ODbL): https://www.openstreetmap.org/copyright
+Overture Maps Foundation and its contributors: https://docs.overturemaps.org/attribution/
+AllThePlaces contributors and contributing operators: https://www.alltheplaces.xyz/
+Food Standards Agency/FHRS evidence: https://ratings.food.gov.uk/
+This is a mixed-source dataset; no single blanket licence is assigned here.
+Historical restaurant enrichment influenced trial prominence; its reviews/data are not included in these tile properties.
+Pin source is retained as origin; src=overture is a legacy Vela reader compatibility flag, not full source attribution.
+Test preview, not a production release or guarantee of current opening.
