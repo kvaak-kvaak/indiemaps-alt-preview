@@ -1,0 +1,76 @@
+{
+  "southend": {
+    "build_id": "9922baf3ca2c58b5",
+    "tiles": {
+      "southend.pmtiles": {
+        "bytes": 696293,
+        "sha256": "e5d476eb03b9e59a24b0036bc1c663a021b0ec3632571e7a0a1510ad48b5cdc3",
+        "features": 1622,
+        "verification": {
+          "decoded_unique_ids": 1622,
+          "all_properties_preserved": true,
+          "max_geometry_error_metres": 0.087
+        }
+      },
+      "southend-parking.pmtiles": {
+        "bytes": 149926,
+        "sha256": "340832963b769acf2a1e84661ae36ebf77a3d7dcebaca51602fe10b8afc8749f",
+        "features": 154,
+        "verification": {
+          "decoded_unique_ids": 154,
+          "all_properties_preserved": true,
+          "max_geometry_error_metres": 0.059
+        }
+      }
+    },
+    "details": {
+      "schema": "indiemaps-place-details-v1",
+      "build_id": "9922baf3ca2c58b5",
+      "file": "southend-details.db.gz",
+      "bytes": 545877,
+      "sha256": "db035a45b338686fe483b6b81f0b7cfb2924a95a13c10a5d85ea5c5ffe2e7588",
+      "uncompressed_bytes": 4083712,
+      "database_sha256": "76259b239ffefef1f693e1b2d2fadd9360127787c813fc1be9c9540d899546a4",
+      "records": 3024,
+      "enriched_records": 333
+    },
+    "details_map_ids_checked": 1622
+  },
+  "helsinki": {
+    "build_id": "0c48e8329b0b808c",
+    "tiles": {
+      "southend.pmtiles": {
+        "bytes": 3414264,
+        "sha256": "f9ee1dccd9c1ea4d4bb7fbde23814c8aedc9d7549a0506d00dc30c9493e6c82d",
+        "features": 11075,
+        "verification": {
+          "decoded_unique_ids": 11075,
+          "all_properties_preserved": true,
+          "max_geometry_error_metres": 0.08
+        }
+      },
+      "southend-parking.pmtiles": {
+        "bytes": 191507,
+        "sha256": "b719920d0b297371f9f155f798d1ee2df8fa1511b575b22c00fde54cfcd6efc6",
+        "features": 238,
+        "verification": {
+          "decoded_unique_ids": 238,
+          "all_properties_preserved": true,
+          "max_geometry_error_metres": 0.076
+        }
+      }
+    },
+    "details": {
+      "schema": "indiemaps-place-details-v1",
+      "build_id": "0c48e8329b0b808c",
+      "file": "helsinki-details.db.gz",
+      "bytes": 2901777,
+      "sha256": "63873cc1b82811b07f6b3a306b7eb27900c9828ee7fdd94bc95b24af6b791abc",
+      "uncompressed_bytes": 21463040,
+      "database_sha256": "8f3ab537edab692d94771fd79f93844d88e24e615d934e8f736639d0760a9e1e",
+      "records": 16347,
+      "enriched_records": 499
+    },
+    "details_map_ids_checked": 11075
+  }
+}

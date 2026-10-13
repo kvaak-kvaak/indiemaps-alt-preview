@@ -29,3 +29,9 @@ These small preview files are pinned to an immutable test tag. This is test deli
 Main manifest: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-13-v2/southend/manifest.json
 
 1,622 main-map pins (+78), 154 optional parking pins unchanged. All 2,946 existing reviewed records preserved. Six potential duplicates withheld. Built and decoded in Actions run 38318516993. Previous immutable preview URLs remain available.
+
+## Southend + Helsinki with card details, 13 October 2026
+
+Manifest: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/manifest.json
+
+Southend: 1,622 map pins; 333 enriched records. Helsinki: 11,075 map pins; 499 enriched records. Each region has a separate version-bound SQLite details download described by `details`. Existing Vela clients ignore this optional field; rich cards require the updated Android reader. Parking remains separate and off by default.

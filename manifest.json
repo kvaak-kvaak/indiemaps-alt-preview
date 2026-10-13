@@ -1,0 +1,63 @@
+{
+  "regions": [
+    {
+      "id": "indiemaps-southend-preview",
+      "name": "Indiemaps Southend preview",
+      "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/southend/southend.pmtiles",
+      "sizeMb": 0.696,
+      "bbox": [
+        51.505,
+        0.615,
+        51.575,
+        0.825
+      ],
+      "rev": 3,
+      "build_id": "9922baf3ca2c58b5",
+      "sha256": "e5d476eb03b9e59a24b0036bc1c663a021b0ec3632571e7a0a1510ad48b5cdc3",
+      "details": {
+        "schema": "indiemaps-place-details-v1",
+        "build_id": "9922baf3ca2c58b5",
+        "bytes": 545877,
+        "sha256": "db035a45b338686fe483b6b81f0b7cfb2924a95a13c10a5d85ea5c5ffe2e7588",
+        "uncompressed_bytes": 4083712,
+        "database_sha256": "76259b239ffefef1f693e1b2d2fadd9360127787c813fc1be9c9540d899546a4",
+        "records": 3024,
+        "enriched_records": 333,
+        "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/southend/southend-details.db.gz"
+      }
+    },
+    {
+      "id": "indiemaps-helsinki-preview",
+      "name": "Indiemaps Helsinki preview",
+      "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/helsinki/helsinki.pmtiles",
+      "sizeMb": 3.414,
+      "bbox": [
+        59.92249,
+        24.7828,
+        60.29785,
+        25.25451
+      ],
+      "rev": 1,
+      "build_id": "0c48e8329b0b808c",
+      "sha256": "f9ee1dccd9c1ea4d4bb7fbde23814c8aedc9d7549a0506d00dc30c9493e6c82d",
+      "details": {
+        "schema": "indiemaps-place-details-v1",
+        "build_id": "0c48e8329b0b808c",
+        "bytes": 2901777,
+        "sha256": "63873cc1b82811b07f6b3a306b7eb27900c9828ee7fdd94bc95b24af6b791abc",
+        "uncompressed_bytes": 21463040,
+        "database_sha256": "8f3ab537edab692d94771fd79f93844d88e24e615d934e8f736639d0760a9e1e",
+        "records": 16347,
+        "enriched_records": 499,
+        "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/helsinki/helsinki-details.db.gz"
+      }
+    }
+  ],
+  "status": "device-test-preview",
+  "attribution_url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/attribution.txt",
+  "notes": [
+    "Helsinki is an envelope including neighbouring fringe.",
+    "Helsinki has no municipal Service Map verification in this preview.",
+    "Details load by exact POI id; no standalone country search index is included."
+  ]
+}

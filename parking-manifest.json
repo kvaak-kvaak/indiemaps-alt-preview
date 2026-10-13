@@ -1,0 +1,33 @@
+{
+  "regions": [
+    {
+      "id": "indiemaps-southend-parking-preview",
+      "name": "Indiemaps Southend parking",
+      "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/southend/southend-parking.pmtiles",
+      "sizeMb": 0.15,
+      "bbox": [
+        51.505,
+        0.615,
+        51.575,
+        0.825
+      ],
+      "rev": 3,
+      "build_id": "9922baf3ca2c58b5"
+    },
+    {
+      "id": "indiemaps-helsinki-parking-preview",
+      "name": "Indiemaps Helsinki parking",
+      "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/helsinki/helsinki-parking.pmtiles",
+      "sizeMb": 0.192,
+      "bbox": [
+        59.92249,
+        24.7828,
+        60.29785,
+        25.25451
+      ],
+      "rev": 1,
+      "build_id": "0c48e8329b0b808c"
+    }
+  ],
+  "status": "optional-parking-preview"
+}
