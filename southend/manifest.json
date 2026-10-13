@@ -3,17 +3,17 @@
     {
       "id": "indiemaps-southend-preview",
       "name": "Indiemaps Southend preview",
-      "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-12-v1/southend/southend.pmtiles",
-      "sizeMb": 0.677,
+      "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-13-v2/southend/southend.pmtiles",
+      "sizeMb": 0.696,
       "bbox": [
         51.505,
         0.615,
         51.575,
         0.825
       ],
-      "rev": 1
+      "rev": 2
     }
   ],
   "status": "device-test-preview",
-  "attribution_url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-12-v1/southend/attribution.txt"
+  "attribution_url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-13-v2/southend/attribution.txt"
 }

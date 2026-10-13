@@ -3,7 +3,7 @@
     {
       "id": "indiemaps-southend-parking-preview",
       "name": "Indiemaps Southend parking (optional)",
-      "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-12-v1/southend/southend-parking.pmtiles",
+      "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-13-v2/southend/southend-parking.pmtiles",
       "sizeMb": 0.15,
       "bbox": [
         51.505,
@@ -11,9 +11,9 @@
         51.575,
         0.825
       ],
-      "rev": 1
+      "rev": 2
     }
   ],
   "status": "device-test-preview",
-  "attribution_url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-12-v1/southend/attribution.txt"
+  "attribution_url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-13-v2/southend/attribution.txt"
 }

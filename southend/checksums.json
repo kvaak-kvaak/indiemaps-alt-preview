@@ -1,0 +1,25 @@
+{
+  "build_id": "9922baf3ca2c58b5",
+  "assets": {
+    "southend.pmtiles": {
+      "bytes": 696293,
+      "sha256": "e5d476eb03b9e59a24b0036bc1c663a021b0ec3632571e7a0a1510ad48b5cdc3",
+      "features": 1622,
+      "verification": {
+        "decoded_unique_ids": 1622,
+        "all_properties_preserved": true,
+        "max_geometry_error_metres": 0.087
+      }
+    },
+    "southend-parking.pmtiles": {
+      "bytes": 149926,
+      "sha256": "340832963b769acf2a1e84661ae36ebf77a3d7dcebaca51602fe10b8afc8749f",
+      "features": 154,
+      "verification": {
+        "decoded_unique_ids": 154,
+        "all_properties_preserved": true,
+        "max_geometry_error_metres": 0.059
+      }
+    }
+  }
+}

@@ -23,3 +23,9 @@ Main: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southe
 Optional parking: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-12-v1/southend/parking-manifest.json
 
 These small preview files are pinned to an immutable test tag. This is test delivery, not a final large-scale hosting decision.
+
+## Category recovery preview, 13 October 2026
+
+Main manifest: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/southend-web-2026-10-13-v2/southend/manifest.json
+
+1,622 main-map pins (+78), 154 optional parking pins unchanged. All 2,946 existing reviewed records preserved. Six potential duplicates withheld. Built and decoded in Actions run 38318516993. Previous immutable preview URLs remain available.
