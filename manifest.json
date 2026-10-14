@@ -24,6 +24,17 @@
         "records": 3024,
         "enriched_records": 333,
         "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-14-v2/southend/southend-details.db.gz"
+      },
+      "search": {
+        "schema": "indiemaps-search-v1",
+        "build_id": "9922baf3ca2c58b5",
+        "file": "southend-search.db.gz",
+        "bytes": 629224,
+        "sha256": "db1ff645052f32d7810279bfb02cd8c740675347c05dc133c537f85a21e2a5fc",
+        "uncompressed_bytes": 1441792,
+        "database_sha256": "ea46f4bc2e36d95cd02cd284f0ac826712b9256d039cc02fd4f7845db9cb8f52",
+        "records": 3024,
+        "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-search-2026-10-15-v1/southend/southend-search.db.gz"
       }
     },
     {
@@ -50,6 +61,17 @@
         "records": 16362,
         "enriched_records": 691,
         "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-14-v2/helsinki/helsinki-details.db.gz"
+      },
+      "search": {
+        "schema": "indiemaps-search-v1",
+        "build_id": "1feb38fc3a732bac",
+        "file": "helsinki-search.db.gz",
+        "bytes": 2639453,
+        "sha256": "5b349a90dce9fde79d6a3ed86485a7c478883688bfefbf290f1979901300d0aa",
+        "uncompressed_bytes": 6799360,
+        "database_sha256": "4db8c74e10ac426dc08478d45e6a76dc4d42aa6623982d4323ff49b6f6226f87",
+        "records": 16362,
+        "url": "https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-search-2026-10-15-v1/helsinki/helsinki-search.db.gz"
       }
     }
   ],
@@ -58,8 +80,9 @@
   "notes": [
     "Helsinki is an envelope including neighbouring fringe.",
     "Helsinki has no municipal Service Map verification in this preview.",
-    "Details load by exact POI id; no standalone country search index is included.",
     "Helsinki official inventory matching and dated S-Etukortti hours updated 14 October.",
-    "Raflaamo rich-field refresh incomplete after HTTP 429; saved snapshot retained."
-  ]
+    "Raflaamo rich-field refresh incomplete after HTTP 429; saved snapshot retained.",
+    "Separate regional FTS search indexes; rich details are loaded independently."
+  ],
+  "search_build_run": "https://github.com/kvaak-kvaak/indiemaps-alt/actions/runs/38652656863"
 }
