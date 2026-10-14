@@ -1,5 +1,5 @@
-Indiemaps Southend and Helsinki device preview — 13 October 2026
-Southend build 9922baf3ca2c58b5; Helsinki build 0c48e8329b0b808c.
+Indiemaps Southend and Helsinki device preview — 14 October 2026
+Southend build 9922baf3ca2c58b5; Helsinki build 1feb38fc3a732bac.
 Map data: OpenStreetMap contributors (ODbL), https://www.openstreetmap.org/copyright
 Helsinki OSM extract: Geofabrik, https://download.geofabrik.de/europe/finland.html
 Overture Maps Foundation and its contributors: https://docs.overturemaps.org/attribution/
@@ -9,3 +9,5 @@ Historical restaurant metadata and partial review counts: supplied country enric
 Mixed-source data; no single blanket licence assigned here. Original source IDs retained in companion records.
 Tile src=overture is a legacy Vela compatibility flag; origin records the coordinate source.
 Helsinki preview has no municipal Service Map verification. Test preview, not a production release or guarantee of current opening.
+
+Finnish official venue evidence: Raflaamo (https://www.raflaamo.fi/), Restel (https://www.restel.fi/), S-Etukortti (https://s-etukortti.fi/) and operator venue locators; official source URLs retained in companion records. Dated hours apply only to their stated dates.

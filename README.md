@@ -35,3 +35,9 @@ Main manifest: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-previ
 Manifest: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-13-v1/manifest.json
 
 Southend: 1,622 map pins; 333 enriched records. Helsinki: 11,075 map pins; 499 enriched records. Each region has a separate version-bound SQLite details download described by `details`. Existing Vela clients ignore this optional field; rich cards require the updated Android reader. Parking remains separate and off by default.
+
+## Corrected Helsinki preview, 14 October 2026
+
+Manifest: https://raw.githubusercontent.com/kvaak-kvaak/indiemaps-alt-preview/cities-web-2026-10-14-v2/manifest.json
+
+Helsinki: 11,102 map pins, 238 optional parking pins, 691 enriched records, 253 places with dated official hours. Southend assets unchanged. Built and decoded in Actions run 38590350115. Matching conflicts remain held. Updated Android client renders dated hours; visual phone testing remains outstanding. Earlier immutable preview tags remain available for rollback.
